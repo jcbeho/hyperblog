@@ -1,12 +1,8 @@
 body
 {
-<<<<<<< HEAD
-    color: rgb(5, 5, 5);
-=======
     color: #333;
->>>>>>> cabecera
     text-align: center;
-    font-family: 'Courier';
+    font-family: 'Arial';
 }
 #cabecera
 {
